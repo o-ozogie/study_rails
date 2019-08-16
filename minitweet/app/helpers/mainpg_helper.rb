@@ -1,0 +1,2 @@
+module MainpgHelper
+end

@@ -1,0 +1,2 @@
+class UserText < ApplicationRecord
+end
